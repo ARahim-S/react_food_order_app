@@ -19,6 +19,7 @@
   height: 25rem;
   z-index: 0;
   overflow: hidden;
+  transform: rotateY(180deg);
 }
 
 .main-image img {
